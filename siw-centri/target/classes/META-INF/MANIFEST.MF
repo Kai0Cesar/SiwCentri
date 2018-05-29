@@ -1,9 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Title: siw-centri
+Implementation-Title: Progetto Siw 2018
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: kaio
 Implementation-Vendor-Id: it.uniroma3
 Build-Jdk: 1.8.0_25
-Implementation-URL: http://maven.apache.org
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/siw-centri
 Created-By: Maven Integration for Eclipse
 
