@@ -3,6 +3,13 @@
 Allievi: Edoardo Montebelli [487882] e Kaio Cesar Alves Reis [484997]
 Progetto: Software Informativi sul Web 2017/2018
 
+Considerazioni generali:
+
+E' stata un'esperienza molto formativa, in quanto ti mette davanti ostacoli apparentemente insormontabili e per i quali devi sbatterci la testa per superarli.
+Ci ha insegnato a interagire e a lavorare meglio in gruppo, e a confrontarmi con altri colleghi.
+
+Funzionalità incomplete: Assegnamento di un ruolo con il login fatto tramite OAuth2.
+
 Casi d'Uso
 
 1-Gestione iscrizione allievo attività - Attore primario: Responsabile
