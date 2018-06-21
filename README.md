@@ -1,5 +1,9 @@
 # SiwCentri
-Progetto: Software Informativi sul Web
+
+Allievi: Edoardo Montebelli [487882] e Kaio Cesar Alves Reis [484997]
+Progetto: Software Informativi sul Web 2017/2018
+
+Casi d'Uso
 
 1-Gestione iscrizione allievo attività - Attore primario: Responsabile
 Pre-Cond: Il Responsabile è identificato e autenticato
